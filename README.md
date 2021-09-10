@@ -1,2 +1,2 @@
 # Videos
-Arquivos úteis utilizados em videoaulas
+Arquivos úteis utilizados em video aulas
